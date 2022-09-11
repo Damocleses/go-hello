@@ -1,5 +1,5 @@
 package go_hello
 
 func HelloGo() {
-	println("Hello Go")
+	println("Hello Go 2.0")
 }
